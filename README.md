@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Vinicius 👋</h1>
+<h1 align="center">Olá, eu sou o Vinicius  Montuani 👋</h1>
 
 <p align="center">
   Estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI.<br>
@@ -81,6 +81,8 @@
   <a href="https://github.com/Felipenhoslol">@Felipenhos</a> |
   <a href="https://github.com/Tomate3181">@Tomate3181</a> |
   <a href="https://github.com/30d3m0s">@30d3m0s</a>
+  <a href="https://github.com/V-32">@V-32</a>
+  <a href="https://github.com/vitoraugusto1079">@vitoraugusto1079</a>
 </p>
 
 <p align="center"><strong>Professores:</strong></p>
