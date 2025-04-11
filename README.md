@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI.<br>
-  Apaixonado por tecnologia, programação, redes de computadores e cibersegurança.
+  Apaixonado por tecnologia, programação, redes de computadores, cibersegurança e games.
 </p>
 
 ---
