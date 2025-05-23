@@ -84,7 +84,6 @@
   <a href="https://github.com/V-32">@V-32</a>
 |
   <a  href="https://github.com/vitoraugusto1079">@vitoraugusto1079</a>
-
 |
   <a  href="https://github.com/Joth-Alt">@Joth-Alt</a>
 
