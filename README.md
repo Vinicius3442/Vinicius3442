@@ -1,19 +1,65 @@
-<h1 align="center">Olá, eu sou o Vinicius  Montuani 👋</h1>
+<h1 align="center">
+  Olá, eu sou o Vinicius Montuani 👋<br />
+  <em>Desenvolvedor em formação | Estudando C#, Python e Java Script</em><br />
+</h1>
 
-<p align="center">
-  Estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI.<br>
-  Apaixonado por tecnologia, programação, redes de computadores, cibersegurança e games.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" style="margin: 0 15px;" />
+</div>
+
+<h2 align="center">Sobre mim</h2>
+
+<p align="center" style="max-width: 700px; margin: auto;">
+  Sou estudante do técnico em Desenvolvimento de Sistemas do SENAI, apaixonado por programação. 
+  Atualmente estou focado em aprimorar minhas habilidades em C#, Python e Java Script.
 </p>
 
 ---
 
+<h2 align="center">Certificados</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <a href="https://www.freecodecamp.org/certification/Vinicius3442/responsive-web-design" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Certificado FreeCodeCamp Responsive Web Design" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/pt-br/users/vinicius-montuani/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Perfil-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil Microsoft Learn" />
+  </a>
 </p>
 
+---
+
+<h2 align="center">Tecnologias que estou estudando</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin: 0 15px;" />
+</p>
+
+---
+
+<h2 align="center">Tecnologias que vou aprender no futuro</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" style="margin: 0 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" alt="Wireshark" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="margin: 0 15px;" />
+</p>
+
+---
+
+<h2 align="center">Projetos do SENAI</h2>
+
+<p align="center">
+  <a href="https://github.com/Vinicius3442/Projetos-SENAI" target="_blank" rel="noopener noreferrer">Repositório no GitHub</a> |
+  <a href="https://vinicius3442.github.io/Projetos-SENAI/" target="_blank" rel="noopener noreferrer">Site com os Projetos</a>
+</p>
 
 ---
 
@@ -26,50 +72,11 @@
 
 ---
 
-<h2 align="center">Tecnologias que estou estudando</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-
----
-
-<h2 align="center">Tecnologias que Pretendo Aprender</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nmap-4A90E2?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-</p>
-
----
-
-<h2 align="center">Projetos do SENAI</h2>
-
-<p align="center">
-  <a href="https://github.com/Vinicius3442/Projetos-SENAI">Repositório no GitHub</a> |
-  <a href="https://vinicius3442.github.io/Projetos-SENAI/">Site com os Projetos</a>
-</p>
-
----
-
-<h2 align="center">Notion de Estudos</h2>
-
-<p align="center">
-  <a href="https://www.notion.so/Plano-de-estudos-1ce9053fa9bb806da427d118a429801c?pvs=4">Acesse meu Notion com planos de estudo, documentação, bugs e mais</a>
-</p>
-
 <h2 align="center">Livros que Estou Lendo</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores%20-%20Tanenbaum-007ACC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Redes de Computadores - Tanenbaum" />
 </p>
-
 
 ---
 
@@ -78,22 +85,19 @@
 <p align="center"><strong>Amigos:</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Felipenhoslol">@Felipenhos</a> |
-  <a href="https://github.com/Tomate3181">@Tomate3181</a> |
-  <a href="https://github.com/pietro-renno">@pietro-renno</a> |
-  <a href="https://github.com/V-32">@V-32</a>
-|
-  <a  href="https://github.com/vitoraugusto1079">@vitoraugusto1079</a>
-|
-  <a  href="https://github.com/Joth-Alt">@Joth-Alt</a>
-
+  <a href="https://github.com/Felipenhoslol" target="_blank">@Felipenhos</a> |
+  <a href="https://github.com/Tomate3181" target="_blank">@Tomate3181</a> |
+  <a href="https://github.com/pietro-renno" target="_blank">@pietro-renno</a> |
+  <a href="https://github.com/V-32" target="_blank">@V-32</a> |
+  <a href="https://github.com/vitoraugusto1079" target="_blank">@vitoraugusto1079</a> |
+  <a href="https://github.com/Joth-Alt" target="_blank">@Joth-Alt</a>
 </p>
 
 <p align="center"><strong>Professores:</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Cardoso30S">@Cardoso30S</a> |
-  <a href="https://github.com/lucasmsdev">@lucasmsdev</a>
+  <a href="https://github.com/Cardoso30S" target="_blank">@Cardoso30S</a> |
+  <a href="https://github.com/lucasmsdev" target="_blank">@lucasmsdev</a>
 </p>
 
 <p align="center"><em>Se quiser ser adicionado aqui, me avisa!</em></p>
@@ -103,5 +107,6 @@
 <h2 align="center">Contato</h2>
 
 <p align="center">
-  <a href="https://github.com/vinicius3442">GitHub: @vinicius3442</a>
+  <a href="https://github.com/vinicius3442" target="_blank" rel="noopener noreferrer">GitHub</a> | 
+  <a href="https://learn.microsoft.com/users/vinicius3442" target="_blank" rel="noopener noreferrer">Microsoft Learn</a>
 </p>
