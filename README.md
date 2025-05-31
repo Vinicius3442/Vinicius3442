@@ -19,20 +19,6 @@
 
 ---
 
-<h2 align="center">Certificados</h2>
-
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/Vinicius3442/responsive-web-design" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Certificado FreeCodeCamp Responsive Web Design" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/pt-br/users/vinicius-montuani/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-Perfil-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Perfil Microsoft Learn" />
-  </a>
-</p>
-
----
-
 <h2 align="center">Tecnologias que estou estudando</h2>
 
 <p align="center">
@@ -108,5 +94,5 @@
 
 <p align="center">
   <a href="https://github.com/vinicius3442" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-  <a href="https://learn.microsoft.com/users/vinicius3442" target="_blank" rel="noopener noreferrer">Microsoft Learn</a>
+  <a href="https://www.linkedin.com/in/vinicius-montuani/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 </p>
