@@ -58,14 +58,6 @@
 
 ---
 
-<h2 align="center">Livros que Estou Lendo</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redes%20de%20Computadores%20-%20Tanenbaum-007ACC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Redes de Computadores - Tanenbaum" />
-</p>
-
----
-
 <h2 align="center">Agradecimentos</h2>
 
 <p align="center"><strong>Amigos:</strong></p>
