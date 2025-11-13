@@ -50,12 +50,6 @@
 
 ---
 
-<div align="center">
-  <h3>🎧 Vibe do Momento</h3>
-  <a href="https://open.spotify.com/">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=7957d5&spotify_client_id=a7aae880980c431c815ce95eec0db510&spotify_client_secret=8cef0e43e46b404fac25e2a2956419b4&refresh_token=AQCUp0r0uOC1CBeY8ccjtG04iQ5saBJroyJnAyXUg4f-W_07gkAq0-k6QV8tgyOlRzG4YsN7FPKB7fvYdMCoid0m3idQaH8guGEFXJ5rdatik2OsvhLbG2277In8cG59hU8" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
 ### Conexões (Professores e amigos)
 
 <div align="center">
