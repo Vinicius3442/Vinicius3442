@@ -23,6 +23,20 @@
   <a href="mailto:viniciusmontuani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Dev_Experience_2025-TOP_3_FINALISTa-orange?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black" />
+</div>
+
+---
+
+### Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/Vinicius3442/Deepsea">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Deepsea&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Vinicius3442/MVC_Gerenciador_fallout">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=MVC_Gerenciador_fallout&theme=tokyonight" />
+  </a>
 </div>
 
 ---
@@ -30,14 +44,14 @@
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/vinicius3442">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinicius3442&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3442&layout=compact&theme=tokyonight&langs_count=6"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius3442&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vinicius3442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=vinicius3442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 ---
+<a href="https://open.spotify.com/user/reo5po57rcy22igi9sv46szgt">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=7957d5&spotify_client_id=a7aae880980c431c815ce95eec0db510&spotify_client_secret=8cef0e43e46b404fac25e2a2956419b4&refresh_token=AQDEDkvhnDHNaiPt1wNqtGrnX6eMYMAObI5j0_806Wl8V1r3CeYMzqeIjTe4GauzqfQdjK-lVTp_MkRV9hgr2V5koKxioKNEmUgbqXD9J9Kz79MmCHpa9cmnnjhqs2A0NGQ" alt="Spotify" />
+</a>
 
 ### Conexões (Professores e amigos)
 
