@@ -1,79 +1,120 @@
-<h1 align="center">
-  Olá, eu sou o Vinicius Montuani 👋<br />
-  <em>Desenvolvedor em formação | Estudando C#, Python e Java Script</em><br />
-</h1>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" style="margin: 0 15px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vinicius%20Montuani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Dev+Full+Stack+em+Forma%C3%A7%C3%A3o;Aluno+SENAI+%7C+DS;PHP%2C+Python+e+Solu%C3%A7%C3%B5es+Web;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
+  <br/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-<h2 align="center">Sobre mim</h2>
+<br/>
 
-<p align="center" style="max-width: 700px; margin: auto;">
-  Sou estudante do técnico em Desenvolvimento de Sistemas do SENAI, apaixonado por programação. 
-  Atualmente estou focado em aprimorar minhas habilidades em C#, Python e Java Script.
-</p>
-
----
-
-<h2 align="center">Tecnologias que estou estudando</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="margin: 0 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin: 0 15px;" />
-</p>
-
----
-
-<h2 align="center">Projetos do SENAI</h2>
-
-<p align="center">
-  <a href="https://github.com/Vinicius3442/Projetos-SENAI" target="_blank" rel="noopener noreferrer">Repositório no GitHub</a> |
-  <a href="https://vinicius3442.github.io/Projetos-SENAI/" target="_blank" rel="noopener noreferrer">Site com os Projetos</a>
-</p>
+<div align="center">
+  <h3>Sobre Mim</h3>
+  <p>
+    Sou um estudante curioso do <b>SENAI</b>, transitando entre a lógica do Back-End e a criatividade do Front-End.<br>
+    Atualmente, meu foco é construir automações e sistemas web robustos.
+  </p>
+  <a href="https://www.linkedin.com/in/vinicius-montuani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:viniciusmontuani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-<h2 align="center">Estatísticas do GitHub</h2>
+### Tecnologias
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius3442&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3442&layout=compact&theme=radical" />
-</p>
+<div align="center">
 
----
+| **Linguagens** | **Web** | **Ferramentas & Dados** |
+| :---: | :---: | :---: |
+| <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> |
 
-<h2 align="center">Agradecimentos</h2>
-
-<p align="center"><strong>Amigos:</strong></p>
-
-<p align="center">
-  <a href="https://github.com/Felipenhoslol" target="_blank">@Felipenhos</a> |
-  <a href="https://github.com/Tomate3181" target="_blank">@Tomate3181</a> |
-  <a href="https://github.com/pietro-renno" target="_blank">@pietro-renno</a> |
-  <a href="https://github.com/V-32" target="_blank">@V-32</a> |
-  <a href="https://github.com/vitoraugusto1079" target="_blank">@vitoraugusto1079</a> |
-  <a href="https://github.com/Joth-Alt" target="_blank">@Joth-Alt</a>
-</p>
-
-<p align="center"><strong>Professores:</strong></p>
-
-<p align="center">
-  <a href="https://github.com/Cardoso30S" target="_blank">@Cardoso30S</a> |
-  <a href="https://github.com/lucasmsdev" target="_blank">@lucasmsdev</a>
-</p>
-
-<p align="center"><em>Se quiser ser adicionado aqui, me avisa!</em></p>
+</div>
 
 ---
 
-<h2 align="center">Contato</h2>
+## GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/vinicius3442" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/vinicius-montuani/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-</p>
+<div align="center">
+  <a href="https://github.com/vinicius3442">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinicius3442&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius3442&layout=compact&theme=tokyonight&langs_count=6"/>
+  </a>
+</div>
+<img src="https://github-profile-trophy.vercel.app/?username=vinicius3442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+---
+
+### Conexões (Professores e amigos)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <a href="https://github.com/Cardoso30S">
+          <img src="https://github.com/Cardoso30S.png" width="50" style="border-radius:50%"/><br>
+          <sub>@Cardoso30S</sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/lucasmsdev">
+          <img src="https://github.com/lucasmsdev.png" width="50" style="border-radius:50%"/><br>
+          <sub>@lucasmsdev</sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/Felipenhoslol">
+          <img src="https://github.com/Felipenhoslol.png" width="50" style="border-radius:50%"/><br>
+          <sub>@Felipenhos</sub>
+        </a>
+      </td>
+       <td align="center" width="100">
+        <a href="https://github.com/Tomate3181">
+          <img src="https://github.com/Tomate3181.png" width="50" style="border-radius:50%"/><br>
+          <sub>@Tomate3181</sub>
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="100">
+        <a href="https://github.com/pietro-renno">
+          <img src="https://github.com/pietro-renno.png" width="50" style="border-radius:50%"/><br>
+          <sub>@pietro-renno</sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/V-32">
+          <img src="https://github.com/V-32.png" width="50" style="border-radius:50%"/><br>
+          <sub>@V-32</sub>
+        </a>
+      </td>
+      <td align="center" width="100">
+        <a href="https://github.com/vitoraugusto1079">
+          <img src="https://github.com/vitoraugusto1079.png" width="50" style="border-radius:50%"/><br>
+          <sub>@vitor</sub>
+        </a>
+      </td>
+       <td align="center" width="100">
+        <a href="https://github.com/Joth-Alt">
+          <img src="https://github.com/Joth-Alt.png" width="50" style="border-radius:50%"/><br>
+          <sub>@Joth-Alt</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=60&section=footer"/>
+</div>
