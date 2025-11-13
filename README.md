@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vinicius%20Montuani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Dev+Full+Stack+em+Forma%C3%A7%C3%A3o;Aluno+SENAI+%7C+DS;PHP%2C+Python+e+Solu%C3%A7%C3%B5es+Web;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
-  <br/>
+  <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -11,10 +9,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Dev+Full+Stack+em+Forma%C3%A7%C3%A3o;Aluno+SENAI+%7C+DS;PHP%2C+Python+e+Solu%C3%A7%C3%B5es+Web;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
 </div>
-
-<br/>
-
 <div align="center">
   <h3>Sobre Mim</h3>
   <p>
