@@ -23,7 +23,7 @@
   <a href="mailto:viniciusmontuani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Dev_Experience_2025-TOP_3_FINALISTa-orange?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Dev_Experience_2025-CAMPEÃO-orange?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black" />
 </div>
 
 ---
