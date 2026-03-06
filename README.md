@@ -100,9 +100,9 @@
         </a>
       </td>
        <td align="center" width="100">
-        <a href="https://github.com/Joth-Alt">
-          <img src="https://github.com/Joth-Alt.png" width="50" style="border-radius:50%"/><br>
-          <sub>@Joth-Alt</sub>
+        <a href="https://github.com/fiorezewesley">
+          <img src="https://github.com/fiorezewesley.png" width="50" style="border-radius:50%"/><br>
+          <sub>@fiorezewesley</sub>
         </a>
       </td>
     </tr>
