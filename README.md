@@ -1,22 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vinicius%20Montuani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-  <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Dev+Full+Stack+em+Forma%C3%A7%C3%A3o;Aluno+SENAI+%7C+DS;PHP%2C+Python+e+Solu%C3%A7%C3%B5es+Web;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:00f3ff&height=250&section=header&text=Vinicius%20Montuani&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Dev%20Experience%20Champion%20%7C%20Excel%20Specialist&descAlignY=55&descAlign=62" width="100%" alt="Vinicius Montuani Banner" />
+
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=450&lines=Full-Stack+Development;Creative+Coding+%26+3D;AI+%26+Web+Simulations" alt="Typing SVG" />
 </div>
+
+<br>
+
 <div align="center">
-  <h3>Sobre Mim</h3>
-  <p>
-    Sou um estudante curioso do <b>SENAI</b>, transitando entre a lógica do Back-End e a criatividade do Front-End.<br>
-    Atualmente, meu foco é construir automações e sistemas web robustos.
-  </p>
   <a href="https://www.linkedin.com/in/vinicius-montuani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,85 +15,86 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Dev_Experience_2025-CAMPEÃO-orange?style=for-the-badge&logo=trophy&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/MOS_Excel-EXPERT-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=black" />
 </div>
 
----
+<br>
 
-### Projetos em Destaque
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### Sobre Mim
+
+Sou um estudante de Desenvolvimento de Sistemas no SENAI, transitando entre a lógica estruturada do Back-End e a criatividade do Front-End. Sou apaixonado por resolver problemas complexos, criar simulações e otimizar rotinas.
+
+- **Conquistas:** Campeão do SENAI Dev Experience, Microsoft Office Specialist (MOS) Expert e Ouro nacional na OBA 2025.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### Stack & Ferramentas
 
 <div align="center">
-  <a href="https://github.com/Vinicius3442/Deepblue">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Deepblue&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Vinicius3442/Neuroevolucao_de_AGV">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Neuroevolucao_de_AGV&theme=tokyonight" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,php,html,css,react,flutter,windows,arduino,github,vscode&perline=6" />
   </a>
 </div>
 
----
+<br>
 
-## GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinicius3442&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=vinicius3442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-### Conexões (Professores e amigos)
+### Conexões
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/Cardoso30S">
-          <img src="https://github.com/Cardoso30S.png" width="50" style="border-radius:50%"/><br>
-          <sub>@Cardoso30S</sub>
+          <img src="https://github.com/Cardoso30S.png" width="60" style="border-radius: 50%; border: 2px solid #00f3ff;"/><br>
+          <sub><b>@Cardoso30S</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/lucasmsdev">
-          <img src="https://github.com/lucasmsdev.png" width="50" style="border-radius:50%"/><br>
-          <sub>@lucasmsdev</sub>
+          <img src="https://github.com/lucasmsdev.png" width="60" style="border-radius: 50%; border: 2px solid #ff007f;"/><br>
+          <sub><b>@lucasmsdev</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/Felipenhoslol">
-          <img src="https://github.com/Felipenhoslol.png" width="50" style="border-radius:50%"/><br>
-          <sub>@Felipenhos</sub>
+          <img src="https://github.com/Felipenhoslol.png" width="60" style="border-radius: 50%; border: 2px solid #39ff14;"/><br>
+          <sub><b>@Felipenhos</b></sub>
         </a>
       </td>
-       <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/Tomate3181">
-          <img src="https://github.com/Tomate3181.png" width="50" style="border-radius:50%"/><br>
-          <sub>@Tomate3181</sub>
+          <img src="https://github.com/Tomate3181.png" width="60" style="border-radius: 50%; border: 2px solid #ffaa00;"/><br>
+          <sub><b>@Tomate3181</b></sub>
         </a>
       </td>
     </tr>
-     <tr>
-      <td align="center" width="100">
+    <tr>
+      <td align="center" width="130">
         <a href="https://github.com/pietro-renno">
-          <img src="https://github.com/pietro-renno.png" width="50" style="border-radius:50%"/><br>
-          <sub>@pietro-renno</sub>
+          <img src="https://github.com/pietro-renno.png" width="60" style="border-radius: 50%; border: 2px solid #ffaa00;"/><br>
+          <sub><b>@pietro-renno</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/V-32">
-          <img src="https://github.com/V-32.png" width="50" style="border-radius:50%"/><br>
-          <sub>@V-32</sub>
+          <img src="https://github.com/V-32.png" width="60" style="border-radius: 50%; border: 2px solid #39ff14;"/><br>
+          <sub><b>@V-32</b></sub>
         </a>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/vitoraugusto1079">
-          <img src="https://github.com/vitoraugusto1079.png" width="50" style="border-radius:50%"/><br>
-          <sub>@vitor</sub>
+          <img src="https://github.com/vitoraugusto1079.png" width="60" style="border-radius: 50%; border: 2px solid #ff007f;"/><br>
+          <sub><b>@vitor</b></sub>
         </a>
       </td>
-       <td align="center" width="100">
+      <td align="center" width="130">
         <a href="https://github.com/fiorezewesley">
-          <img src="https://github.com/fiorezewesley.png" width="50" style="border-radius:50%"/><br>
-          <sub>@fiorezewesley</sub>
+          <img src="https://github.com/fiorezewesley.png" width="60" style="border-radius: 50%; border: 2px solid #00f3ff;"/><br>
+          <sub><b>@fiorezewesley</b></sub>
         </a>
       </td>
     </tr>
@@ -110,6 +102,9 @@
 </div>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=60&section=footer"/>
+  <p><i>"O que sabemos é uma gota; o que ignoramos é um oceano."</i> — <b>Isaac Newton</b></p>
 </div>
