@@ -31,11 +31,11 @@
 ### Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/Vinicius3442/Deepsea">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Deepsea&theme=tokyonight" />
+  <a href="https://github.com/Vinicius3442/Deepblue">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Deepblue&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Vinicius3442/MVC_Gerenciador_fallout">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=MVC_Gerenciador_fallout&theme=tokyonight" />
+  <a href="https://github.com/Vinicius3442/Neuroevolucao_de_AGV">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vinicius3442&repo=Neuroevolucao_de_AGV&theme=tokyonight" />
   </a>
 </div>
 
