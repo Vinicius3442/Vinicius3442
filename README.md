@@ -106,5 +106,5 @@ Sou um estudante de Desenvolvimento de Sistemas no SENAI, transitando entre a l�
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
-  <p><i>"O que sabemos é uma gota; o que ignoramos é um oceano."</i> — <b>Isaac Newton</b></p>
+  <p><i>"A ausencia de evidencia não é a evidencia de ausencia"</i> — <b>Carl Sagan</b></p>
 </div>
